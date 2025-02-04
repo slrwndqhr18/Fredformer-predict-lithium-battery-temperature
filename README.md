@@ -1,4 +1,4 @@
-# Fredformer_predict_lithium_battery_temperature
+# Fredformer predict lithium battery temperature
 Transformer based time series prediction
 
 SRC Project Name: Predicting battery overcharging on EV car 

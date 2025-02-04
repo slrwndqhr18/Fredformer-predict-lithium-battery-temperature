@@ -21,7 +21,7 @@ The original code was so difficult and some part had error so I changed it light
 Components of model (in directory /model/Component), most of them are copied from original sorce, I changed some error part.
 So the logic is same.
 
-|battery temperature (deg)|percentage|
+|File name|description|
 |------|---|
 | /model | Every codes related to ML model |
 | /model/Component | Codes that used inside the ML model.</br>Its a component of ML model like attention alg or FN layer. |

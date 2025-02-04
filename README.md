@@ -1,0 +1,2 @@
+# Fredformer_predict_lithium_battery_temperature
+Transformer based time series prediction
